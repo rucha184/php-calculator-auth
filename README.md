@@ -29,19 +29,19 @@ php-calculator/
 
 🛠️ Simple Steps to Run
 
-1.Start XAMPP → turn on Apache + MySQL.
+   1.Start XAMPP → turn on Apache + MySQL.
+   
+   2.Copy project folder → put it inside:
+   
+   3.C:/xampp/htdocs/
+   
+   4.Create Database
 
-2.Copy project folder → put it inside:
-
-3.C:/xampp/htdocs/
-
-4.Create Database
-
-   - Open http://localhost/phpmyadmin
-    
-   - Create a database → name it calculator_db.
-
-   - Import the file calculator_db.sql (from your project folder).
+      - Open http://localhost/phpmyadmin
+       
+      - Create a database → name it calculator_db.
+   
+      - Import the file calculator_db.sql (from your project folder).
 
 5.Run in Browser
 
