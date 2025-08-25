@@ -45,4 +45,4 @@ php-calculator/
 
 5.Run in Browser
 
- - http://localhost/php-calculator-auth
+ - http://localhost/php-calculator-auth(Project Folder Name)
